@@ -25,15 +25,6 @@ To maintain anonymity during the review process, some resources are temporarily 
 
 These materials will be made publicly available after the completion of the review process.
 
-## Project Status
-
-| Resource | Status |
-|----------|--------|
-| Documentation | Available |
-| Experimental details | Available |
-| Source code | To be released |
-| Trained models | To be released |
-| Dataset resources | To be released |
 
 ## Reproducibility
 
