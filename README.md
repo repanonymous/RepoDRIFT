@@ -33,7 +33,6 @@ All necessary resources required to reproduce the experiments are included in th
 | Source code | Available |
 | Experimental data | Available |
 | Evaluation resources | Available |
-| Trained models | Available upon request / To be released |
 
 ## License
 
