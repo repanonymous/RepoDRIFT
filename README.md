@@ -1,35 +1,40 @@
 # Project Repository
 
-This repository contains the implementation, experimental resources, and supporting materials for the research project.
-
-The repository is currently prepared for evaluation purposes, and some resources are temporarily restricted to preserve the integrity of the review process.
+This repository contains the implementation, experimental resources, and supporting materials for the proposed research project.
 
 ## Overview
 
-This project investigates the proposed methodology and provides the necessary resources to reproduce and analyze the reported experiments.
+The repository provides the resources required to support the experiments presented in this work, including:
 
-The repository structure includes:
+- Source code for the proposed approach
+- Data processing and experimental scripts
+- Raw and processed experimental data
+- Evaluation and analysis resources
+- Supporting documentation
 
-- Experimental configurations and analysis files
-- Data processing and evaluation resources
-- Supporting scripts and documentation
-- Additional materials required for reproducing the experimental results
+The provided materials are organized to facilitate understanding of the methodology and enable reproducibility of the reported experiments.
 
-## Availability
+## Repository Structure
 
-To maintain anonymity during the review process, some resources are temporarily unavailable:
+The repository is organized into the following main components:
 
-- Source code
-- Trained models
-- Experimental datasets and related resources
-
-These materials will be made publicly available after the completion of the review process.
-
+- `Code/` — Implementation of the proposed methods and experimental pipelines
+- `Data/` — Raw and processed datasets used in experiments
+- `Experiments/` — Experimental configurations, evaluation scripts, and analysis resources
 
 ## Reproducibility
 
-Upon public release, the repository will provide complete implementation details, trained models, and required resources to facilitate reproduction and further research.
+All necessary resources required to reproduce the experiments are included in this repository. Users can follow the provided scripts and documentation to replicate the experimental setup and evaluate the proposed approach.
+
+## Status
+
+| Resource | Availability |
+|----------|--------------|
+| Source code | Available |
+| Experimental data | Available |
+| Evaluation resources | Available |
+| Trained models | Available upon request / To be released |
 
 ## License
 
-License information will be provided with the public release of the complete repository.
+License information will be provided with the official release of the project.
